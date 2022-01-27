@@ -15,5 +15,4 @@ $ pip3 install opencv-python
 $ sudo npm install -g pm2
 
 $ pip install datetime
-
 ```
